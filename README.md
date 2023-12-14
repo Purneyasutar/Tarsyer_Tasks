@@ -7,10 +7,14 @@
 - Save the cropped image as `Task_1_cropped.jpg`.
 - Also save an image (`Task_1_insights.jpg`) - in this draw that rectangular box and also mention its top left and bottom right point.
 
+- ![Task_1](https://github.com/Purneyasutar/Tarsyer_Tasks/assets/87514202/2d56d84e-b173-4cde-8333-4f97f7534a62)
+
+
 2) Morphological Operation
 
 - Perform any three morphological operations as per your choice. Please submit the original image + output image of each morphological operation.
 
 3) Thresholding
-
 - Perform simple and adaptive thresholding on `Task_3.jpg`. Save output images as `Task_3_simple.jpg` and `Task_3_adaptive.jpg`
+
+- ![Task_3](https://github.com/Purneyasutar/Tarsyer_Tasks/assets/87514202/8edc7787-7eaf-4344-8b0a-91a8e81b013d)
